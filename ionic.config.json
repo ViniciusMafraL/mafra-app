@@ -1,0 +1,8 @@
+{
+  "name": "Mafra app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "dbf96d42"
+}
